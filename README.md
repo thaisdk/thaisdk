@@ -7,7 +7,8 @@
 - 🌎 I'm from Pernambuco, Brazil.
 - 👀 I’m interested in Software Development.
 - 💬 About me: I am a bachelor's student at the Federal University of Pernambuco and have a love for design.
-- 🚀 20 years.
+- 👩🏽 She/Her
+- 🚀 21 years.
 
 ##
 - I’m currently learning:
