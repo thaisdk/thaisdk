@@ -1,9 +1,6 @@
 ### Hi, I’m Thaís. 👋
 ##
 
-[![Linkedin Badge](https://img.shields.io/badge/-thaismaximoo-7305fa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaismaximoo/)](https://www.linkedin.com/in/thaismaximoo/)
-[![Gmail Badge](https://img.shields.io/badge/-tkpm@cin.ufpe.br-7305fa?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkpm@cin.ufpe.br)](mailto:tkpm@cin.ufpe.br)
-
 - 🌎 I'm from Pernambuco, Brazil.
 - 👀 I’m interested in Software Development.
 - 💬 About me: I am a bachelor's student at the Federal University of Pernambuco.
