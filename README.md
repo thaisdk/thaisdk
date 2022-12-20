@@ -5,5 +5,5 @@
 - 👀 I'm an intern at Capyba Software.
 - 💬 About me: I am a bachelor's student at the Federal University of Pernambuco.
 - 👩🏽 She/Her
-- 🚀 21 years.
+- 🚀 22 years.
 </div>
